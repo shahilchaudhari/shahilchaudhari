@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shahilchaudhari
+- 👋 Hi, I’m Sahil.
 - I am persuing my M.Tech is Thermal Science (Mechanical department) at IIT Madras.
 - 👀 I’m interested in learning new technologies and apply it to solve problems. 
 - 🌱 I’m currently learning Computational Fluid Dynamics and Data visualization and analytics using C++,R and OpenFoam.
